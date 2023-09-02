@@ -1,4 +1,7 @@
-# Deliver Ease - Product Page
+<p align="center">
+  <img src="assets/logo/LogoDeliverEase.png" height="128">
+  <h1 align="center">DeliverEase - Product page</h1>
+</p>
 
 This repo incudes the files for the product page
 
