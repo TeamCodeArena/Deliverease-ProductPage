@@ -7,6 +7,8 @@ This repo incudes the files for the product page
 
 ## Folder Structure
 The product page project contains the following structure:
+
+<pre>
 .
 ├── assets
 │   └── README.md
@@ -21,3 +23,4 @@ The product page project contains the following structure:
 └── styles
     └── style.css
     └── -other stylesheets-
+</pre>
