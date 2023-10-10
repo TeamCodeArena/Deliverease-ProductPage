@@ -1,1 +1,0 @@
-This folder contains some html files that are not the index.html
